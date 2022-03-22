@@ -45,4 +45,4 @@ This repository is licensed under the MIT license.
 ## URL
 
 - Repo URL https://github.com/SophieQuan/OEM-Ecommerce-BackEnd-SIte
-- Walk through video link https://drive.google.com/file/d/1Uh4Lt65CXpMUEJLFQpPS-DX4ORnaljCY/view?usp=sharing
+- Walk through video link https://watch.screencastify.com/v/Lc50fKMGLtQnG4Yjo3Yj
